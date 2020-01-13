@@ -46,4 +46,3 @@ Then comes the “Call Police” feature. Using this option, user can easily con
 police station in-case of any emergency.
 In “My Profile” section, user may see his name, nid and those problems that were submitted by
 his own.
-At the end, by “Log Out”, a user can simply get out of his account.
