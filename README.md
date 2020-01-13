@@ -1,4 +1,4 @@
-# ComplaintBox
+# Complaint Box
 Our project “Complaint Box” is basically a web based android application. Using this web, all
 the people of the country can open an account via their name, nid and some other info. Then they
 can post their ward-wise problems with photos and vote them according to importance. Thus the
